@@ -4,7 +4,7 @@ url: http://vinodkhare.github.io
 author:
   name: Vinod Khare
   email: vinod.khare@icloud.com
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-minimal
 markdown: kramdown
 plugins:
   - jekyll-feed
