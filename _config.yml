@@ -1,10 +1,10 @@
 title: My Jekyll Site
 description: A simple Jekyll site with an about page and a blog.
-url: http://example.com
+url: http://vinodkhare.github.io
 author:
-  name: Your Name
-  email: your.email@example.com
-theme: minima
+  name: Vinod Khare
+  email: vinod.khare@icloud.com
+theme: jekyll-theme-chirpy
 markdown: kramdown
 plugins:
   - jekyll-feed
