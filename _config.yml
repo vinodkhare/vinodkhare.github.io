@@ -9,3 +9,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
